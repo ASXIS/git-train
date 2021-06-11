@@ -1,4 +1,2 @@
-# git-train
-git-train
 
-update repository
+This line from local repository
